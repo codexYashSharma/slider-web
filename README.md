@@ -1,1 +1,2 @@
-# slider-web
+# Portfolio-slider-web
+The Slider Web project is a simple yet elegant image slider designed to enhance the visual appeal of websites. Built using HTML, CSS, and JavaScript, it features smooth transitions, responsive design, and a modern UI, making it ideal for showcasing images dynamically. The slider is lightweight, fast, and easy to customize, allowing developers to integrate it seamlessly into various web projects. Whether for a portfolio, travel website, or product showcase, this slider adds an engaging touch to any webpage
